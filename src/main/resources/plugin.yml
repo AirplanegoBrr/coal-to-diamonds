@@ -1,0 +1,6 @@
+name: CoalToDiamond
+version: '${project.version}'
+main: com.airplanegobrr.coaltodiamond.Coaltodiamond
+api-version: 1.19
+authors: [ AirplaneGobrr, Sydney ]
+description: Convert Coal to Diamonds!
